@@ -1,0 +1,10 @@
+G:\Programas\botonsitos\bin\Debug\botonsitos.exe.config
+G:\Programas\botonsitos\bin\Debug\botonsitos.exe
+G:\Programas\botonsitos\bin\Debug\botonsitos.pdb
+G:\Programas\botonsitos\obj\Debug\botonsitos.csproj.AssemblyReference.cache
+G:\Programas\botonsitos\obj\Debug\botonsitos.Properties.Resources.resources
+G:\Programas\botonsitos\obj\Debug\botonsitos.csproj.GenerateResource.cache
+G:\Programas\botonsitos\obj\Debug\botonsitos.csproj.CoreCompileInputs.cache
+G:\Programas\botonsitos\obj\Debug\botonsitos.exe
+G:\Programas\botonsitos\obj\Debug\botonsitos.pdb
+G:\Programas\botonsitos\obj\Debug\botonsitos.Form1.resources
